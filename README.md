@@ -14,7 +14,7 @@ Now, I am not an avid githubber, I don't really know how to do anything, but wan
    - Either 3n + 3n + 3n OR (3n-1) + (3n-1) + (3n-1) OR (3n-2) + (3n-2) + (3n-2)
    - The sum of 3n + (3n-1) + (3n-2)  
 3) For each of the first options, we need to choose 3 numbers out of 10 possible integers using a combination. This yields 120 possible ways to select 3 out of 10 numbers of the form (3n), 120 possible ways to select 3 out of 10 numbers of the form (3n-1) and 120 possible ways to select 3 out of 10 numbers of the form (3n-2)
-4) For the second option, there are 10 possible options for each of the 3n, (3n-1) and (3n-2) integers, so 10*10*10 = 1000 possible ways to add three numbers of different forms.
+4) For the second option, there are 10 possible options for each of the 3n, (3n-1) and (3n-2) integers, so 10 x 10 x 10 = 1000 possible ways to add three numbers of different forms.
 
 5) The total number of ways, and the answer to this problem, is therefore 1360
 
