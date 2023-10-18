@@ -1,7 +1,9 @@
 # Raghul_dilemna
 
 Well hello there good people, my fellow githubbers, githubsies and geekhubbies
+
 First of all, dilemma is spelt wrong - broski its DILEMMA not DILEMNA
+
 A bit of context on this problem - this is an IB (high school) math question, worth 5 (out of 110) marks.
 The creator spent 2 hours yesterday mulling it over - and still did not come up with a solution, resorting to having to use rust to code a simulation today. Bear in mind, this is meant to take 5-10 minutes, and the poor soul spent the whole night awake thinking about it.
 
