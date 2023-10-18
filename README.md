@@ -20,3 +20,5 @@ Now, I am not an avid githubber, I don't really know how to do anything, but wan
 
 Badum tsss
 
+
+![A1BA0824-8C22-48A8-A086-C9401315D2A9](https://github.com/lempire123/Raghul_dilemna/assets/67589575/9a7ac836-4869-4150-9a6a-9e1b3f7cacc2)
